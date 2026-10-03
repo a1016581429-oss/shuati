@@ -1,8 +1,11 @@
 {
   "version": 1,
   "app": "dual-course-quiz",
-  "updatedAt": 0,
-  "done": [],
+  "updatedAt": 1791061318932,
+  "done": [
+    748,
+    10282
+  ],
   "review": [],
   "master": [],
   "wrong": [],
